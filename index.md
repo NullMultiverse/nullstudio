@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Null Studio User Agreement & Privacy Policy
 
 You can use the [editor on GitHub](https://github.com/NullMultiverse/nullstudio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
