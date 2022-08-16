@@ -1,6 +1,10 @@
 ## Null Studio User Agreement & Privacy Policy
 
+[Null Studio User Agreement](/agreement_en.html)
+
 [Null Studio Privacy Policy](/privacy_en.html)
+
+[Null Studio Third Party Information Sharing Checklist](/privacy_3rd_en.html)
 
 You can use the [editor on GitHub](https://github.com/NullMultiverse/nullstudio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
